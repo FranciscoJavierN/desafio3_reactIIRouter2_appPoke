@@ -1,0 +1,19 @@
+h1{
+  color:rgb(39, 39, 39);
+}
+
+a{
+  text-decoration: none;
+}
+
+.active{
+  color:rgb(2, 199, 199);
+}
+
+.inactive{
+  color: ghostwhite;
+}
+
+.namesList{
+  text-transform: capitalize;
+}
